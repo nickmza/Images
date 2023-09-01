@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T05:53:00.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.6" etag="k_M87Et4r1wSFP1Q8kh1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T05:55:01.261Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GtuqDlf79SN3HCYZi6tM" version="21.6.6" type="github">
   <diagram name="Page-1" id="EWLXHD3Mh6TgsZoZJkAH">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iyNR6kfpYPUDQb7KM7r1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iyNR6kfpYPUDQb7KM7r1-1" target="iyNR6kfpYPUDQb7KM7r1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyNR6kfpYPUDQb7KM7r1-1" value="Power Automate" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iyNR6kfpYPUDQb7KM7r1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iyNR6kfpYPUDQb7KM7r1-2" target="iyNR6kfpYPUDQb7KM7r1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyNR6kfpYPUDQb7KM7r1-2" value="Azure Storage Blob" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iyNR6kfpYPUDQb7KM7r1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iyNR6kfpYPUDQb7KM7r1-4" target="iyNR6kfpYPUDQb7KM7r1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyNR6kfpYPUDQb7KM7r1-4" value="Camel" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iyNR6kfpYPUDQb7KM7r1-6" value="SFTP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
